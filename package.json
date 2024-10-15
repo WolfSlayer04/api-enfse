@@ -2,7 +2,7 @@
   "name": "api-enfermeria",
   "version": "1.0.0",
   "description": "API para la gestión de enfermeros, usuarios y ofertas para un servicio de enfermería",
-  "main": "src/server.js",
+  "main": "serve.js",
   "scripts": {
     "start": "node serve.js",
     "dev": "nodemon serve.js"
@@ -14,7 +14,7 @@
     "enfermeros",
     "ofertas"
   ],
-  "author": "Tu Nombre",
+  "author": "Alejandro",
   "license": "ISC",
   "dependencies": {
     "api-enfermeria": "file:",

@@ -20,7 +20,7 @@
   {
     "id": "4",
     "nombre": "Arellano Alejandro",
-    "email": "goku@example.com",
+    "email": "goku3@example.com",
     "password": "hola",
     "telefono": "555-5678",
     "direccion": "Calle Verdadera 456, Ciudad",
@@ -29,10 +29,29 @@
   {
     "id": "5",
     "nombre": "Gloria Arellano",
-    "email": "goku@example.com",
+    "email": "goku2@example.com",
+    "password": "hola",
+    "telefono": "555-5678",
+    "direccion": "Calle Verdadera 456, Ciudad",
+    "rol": "cliente"
+  },
+  {
+    "id": "6",
+    "nombre": "Evangeline",
+    "email": "goku1@example.com",
+    "password": "hola",
+    "telefono": "555-5678",
+    "direccion": "Calle Verdadera 456, Ciudad",
+    "rol": "cliente"
+  },
+  {
+    "id": "7",
+    "nombre": "Jessie Martinez",
+    "email": "goku9@example.com",
     "password": "hola",
     "telefono": "555-5678",
     "direccion": "Calle Verdadera 456, Ciudad",
     "rol": "cliente"
   }
+  
 ]
